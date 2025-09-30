@@ -42,6 +42,8 @@ CREATE TABLE spotify (
     most_played_on VARCHAR(50)
 );
 ```
+## Languages Used
+- SQL 🗄️
 
 **Query Optimization Example:**  
 - Analyzed query execution using EXPLAIN ANALYZE.  
